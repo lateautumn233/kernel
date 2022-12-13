@@ -1,0 +1,13 @@
+{
+    "kernel": {
+        "name": "秋秋Kernel",
+        "version": "GKI-5.10.101-g87bf1a4df052.zip",
+        "link": "https://github.com/lateautumn233/kernel/raw/main/GKI-5.10.101-g87bf1a4df052.zip",
+        "changelog_url": "https://github.com/lateautumn233/kernel/raw/main/changelog.md",
+        "sha1": "973c33e3e0df18f5f2c629e47c01ce981c513c73"
+    },
+    "support": {
+        "link": "none",
+        "donation": "https://afdian.net/a/lateautumn"
+    }
+}
